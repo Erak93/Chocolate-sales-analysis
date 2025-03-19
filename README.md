@@ -12,3 +12,6 @@ A simple EDA from Kaggle simple csv containing the following informations:
 * **Amount**: Total revenue generated from the sale.
 
 * **Boxes Shipped**:Number of chocolate boxes shipped in the order.
+
+
+[Source:](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales) 
